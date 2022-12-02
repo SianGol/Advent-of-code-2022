@@ -1,6 +1,6 @@
 from operator import itemgetter
 
-input = "/Users/user/Dropbox/aoc_2022/Day1_input.txt"
+input = "/Users/user/Dropbox/Advent-of-code-2022/Day1_input.txt"
 
 count = 1
 elves = {}

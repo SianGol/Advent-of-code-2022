@@ -1,4 +1,4 @@
-input = "/Users/user/Dropbox/aoc_2022/Day2_input.txt"
+input = "/Users/user/Dropbox/Advent-of-code-2022/Day2_input.txt"
 
 # part 1
 # A | X = rock = 1 point
